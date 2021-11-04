@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bai thuc hanh lab 5 nhom 11 fixing
+=======
+bai thuc hanh lab 5 nhom 11 fixing again
+>>>>>>> develop
